@@ -1,6 +1,6 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { JSX, ReactNode } from 'react';
-import { jsx, keyframes } from '@emotion/react';
+import { keyframes } from '@emotion/react';
 
 import {
   CommonPropsAndClassName,

@@ -1,4 +1,4 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import {
   createContext,
   JSX,
@@ -11,7 +11,6 @@ import {
   useRef,
   useState,
 } from 'react';
-import { jsx } from '@emotion/react';
 import { createPortal } from 'react-dom';
 import { autoUpdate } from '@floating-ui/dom';
 import useLayoutEffect from 'use-isomorphic-layout-effect';

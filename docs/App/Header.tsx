@@ -1,7 +1,6 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import fetch from 'unfetch';
 import { Component, Ref, RefCallback } from 'react';
-import { jsx } from '@emotion/react';
 import { RouteComponentProps, withRouter } from 'react-router-dom';
 
 import Select, { StylesConfig } from 'react-select';

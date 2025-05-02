@@ -1,5 +1,4 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/react'; // eslint-disable-line no-unused-vars
+/** @jsxImportSource @emotion/react */
 import { CSSObject } from '@emotion/serialize';
 import { ReactNode, useState } from 'react';
 import CodeSandboxer, { GitInfo } from 'react-codesandboxer';

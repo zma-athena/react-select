@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { ReactNode, useState } from 'react';
-import { jsx } from '@emotion/react';
 import Button from '@atlaskit/button';
 
 import Select, { StylesConfig } from 'react-select';

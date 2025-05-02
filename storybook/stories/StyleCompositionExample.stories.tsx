@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/react';
 import type { ComponentMeta } from '@storybook/react';
 import Select, { OptionProps, StylesConfig } from 'react-select';
 

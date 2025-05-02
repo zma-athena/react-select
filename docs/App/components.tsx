@@ -1,4 +1,4 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { Component } from 'react';
 import {
   Link,
@@ -6,7 +6,6 @@ import {
   RouteComponentProps,
   withRouter,
 } from 'react-router-dom';
-import { jsx } from '@emotion/react';
 
 const navWidth = 180;
 const appWidth = 800;

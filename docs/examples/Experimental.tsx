@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { useState } from 'react';
-import { jsx } from '@emotion/react';
 import { CSSObject } from '@emotion/serialize';
 import moment, { Moment } from 'moment';
 import * as chrono from 'chrono-node';

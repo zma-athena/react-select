@@ -1,5 +1,4 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/react';
+/** @jsxImportSource @emotion/react */
 import Select, { OptionProps } from 'react-select';
 import { ColourOption, colourOptions } from '../data';
 

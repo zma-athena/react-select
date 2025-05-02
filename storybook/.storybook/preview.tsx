@@ -1,7 +1,6 @@
-/** @jsx jsx */
-import { jsx, Global, css } from '@emotion/react';
+import { Global, css } from '@emotion/react';
 import type { DecoratorFn } from '@storybook/react';
-import { Fragment } from 'react';
+import React, { Fragment } from 'react';
 
 export const parameters = {
   options: {

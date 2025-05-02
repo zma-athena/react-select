@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { JSX, ReactNode } from 'react';
-import { jsx } from '@emotion/react';
 import {
   CommonPropsAndClassName,
   CSSObjectWithLabel,

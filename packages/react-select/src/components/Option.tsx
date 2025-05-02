@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { JSX, ReactNode, RefCallback } from 'react';
-import { jsx } from '@emotion/react';
 
 import {
   CommonPropsAndClassName,

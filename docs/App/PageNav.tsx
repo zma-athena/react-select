@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { Component, FunctionComponent, MouseEvent, RefCallback } from 'react';
-import { jsx } from '@emotion/react';
 import { Route, RouteComponentProps, Switch } from 'react-router-dom';
 
 import { animatedScrollTo } from 'react-select/src/utils';

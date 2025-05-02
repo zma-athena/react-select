@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { InputHTMLAttributes } from 'react';
-import { jsx } from '@emotion/react';
 
 import {
   CommonPropsAndClassName,

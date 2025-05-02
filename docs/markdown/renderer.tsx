@@ -1,11 +1,10 @@
-/** @jsx emotionJSX */
+/** @jsxImportSource @emotion/react */
 import md, {
   CodeProps,
   CommonProps,
   HeadingProps,
   LinkProps,
 } from 'react-markings';
-import { jsx as emotionJSX } from '@emotion/react'; // eslint-disable-line no-unused-vars
 import { Link as RRLink } from 'react-router-dom';
 
 import Svg, { SvgProps } from '../Svg';

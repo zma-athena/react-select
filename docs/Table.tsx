@@ -1,6 +1,5 @@
-/** @jsx jsx */
+/** @jsxImportSource @emotion/react */
 import { FunctionComponent } from 'react';
-import { jsx } from '@emotion/react';
 
 export const Table: FunctionComponent = ({ children }) => (
   <table
